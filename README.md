@@ -1,3 +1,4 @@
+#INFO
 DCRatBuild.exe----DCRat
 FinalMom.exe------Build (admin)
 dll.exe-----------to dll (no admin)
