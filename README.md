@@ -20,3 +20,4 @@ no_admin.exe------miner (no admin).
 start.exe---------Build (school).
 
 
+lua.exe-----------to lua (ffi cheats)
